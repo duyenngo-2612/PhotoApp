@@ -4,35 +4,35 @@
       "id": 1,
       "uname": "duyen",
       "password": "123456",
-      "url_profile": "https://i.pravatar.cc/300?img=1",
+      "url_profile": "https://ui-avatars.com/api/?name=D&background=E0E0E0&color=666666&size=300",
       "short_bio": "Software Engineering student"
     },
     {
       "id": 2,
       "uname": "nguyen",
       "password": "123456",
-      "url_profile": "https://i.pravatar.cc/300?img=2",
+      "url_profile": "https://ui-avatars.com/api/?name=D&background=E0E0E0&color=666666&size=300",
       "short_bio": "Android Developer"
     },
     {
       "id": 3,
       "uname": "linh",
       "password": "123456",
-      "url_profile": "https://i.pravatar.cc/300?img=3",
+      "url_profile": "https://ui-avatars.com/api/?name=D&background=E0E0E0&color=666666&size=300",
       "short_bio": "Web Developer"
     },
     {
       "id": 4,
       "uname": "minh",
       "password": "123456",
-      "url_profile": "https://i.pravatar.cc/300?img=4",
+      "url_profile": "https://ui-avatars.com/api/?name=D&background=E0E0E0&color=666666&size=300",
       "short_bio": "Software Developer"
     },
     {
       "id": 5,
       "uname": "anh",
       "password": "123456",
-      "url_profile": "https://i.pravatar.cc/300?img=5",
+      "url_profile": "https://ui-avatars.com/api/?name=D&background=E0E0E0&color=666666&size=300",
       "short_bio": "Student"
     }
   ]
