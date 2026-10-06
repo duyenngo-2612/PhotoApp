@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "uname": "duyen",
+      "password": "123456",
+      "url_profile": "https://i.pravatar.cc/300?img=1",
+      "short_bio": "Software Engineering student"
+    },
+    {
+      "id": 2,
+      "uname": "nguyen",
+      "password": "123456",
+      "url_profile": "https://i.pravatar.cc/300?img=2",
+      "short_bio": "Android Developer"
+    },
+    {
+      "id": 3,
+      "uname": "linh",
+      "password": "123456",
+      "url_profile": "https://i.pravatar.cc/300?img=3",
+      "short_bio": "Web Developer"
+    },
+    {
+      "id": 4,
+      "uname": "minh",
+      "password": "123456",
+      "url_profile": "https://i.pravatar.cc/300?img=4",
+      "short_bio": "Software Developer"
+    },
+    {
+      "id": 5,
+      "uname": "anh",
+      "password": "123456",
+      "url_profile": "https://i.pravatar.cc/300?img=5",
+      "short_bio": "Student"
+    }
+  ]
+}
